@@ -1,4 +1,4 @@
-# Laruki
+# Loruki
 A Responsive HTML CSS project
 
 Followed this youtube tutorial
